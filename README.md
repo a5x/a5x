@@ -4,8 +4,8 @@
 
 <img src='/arty.png?raw=true' alt='Arty' width='400'/>
 
-[![ArtyGraphics](https://badgen.net/twitter/follow/ArtyGraphics)](https://twitter.com/ArtyGraphics)
-
+[![Docs](https://badgen.net/github/watchers/arty-graphics/Help?icon=github)](https://github.com/arty-graphics/Help)
+[![Twitter](https://badgen.net/twitter/follow/ArtyGraphics?icon=twitter)](https://twitter.com/ArtyGraphics)
 
 ## [ABX E-shop](https://kestolu.cz)
 
